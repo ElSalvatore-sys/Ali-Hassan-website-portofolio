@@ -1,0 +1,32 @@
+<!-- Professional Wharton/OpenAI AI in Education Certificate Badge -->
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#990000" stroke="#ffffff" stroke-width="3"/>
+  
+  <!-- Wharton Logo Area -->
+  <rect x="25" y="30" width="150" height="25" fill="#ffffff" rx="5"/>
+  <text x="100" y="47" text-anchor="middle" fill="#990000" font-family="Arial, sans-serif" font-size="14" font-weight="bold">WHARTON</text>
+  
+  <!-- OpenAI Partnership -->
+  <rect x="40" y="60" width="120" height="15" fill="#ffffff" rx="3"/>
+  <text x="100" y="70" text-anchor="middle" fill="#990000" font-family="Arial, sans-serif" font-size="10" font-weight="bold">+ OpenAI</text>
+  
+  <!-- Certificate Title -->
+  <text x="100" y="90" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">AI IN EDUCATION:</text>
+  <text x="100" y="105" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">LEVERAGING ChatGPT</text>
+  <text x="100" y="120" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">FOR TEACHING</text>
+  
+  <!-- Education + AI Icon -->
+  <circle cx="85" cy="145" r="12" fill="#ffffff"/>
+  <text x="85" y="151" text-anchor="middle" fill="#990000" font-family="Arial, sans-serif" font-size="12" font-weight="bold">📚</text>
+  
+  <circle cx="115" cy="145" r="12" fill="#ffffff"/>
+  <text x="115" y="151" text-anchor="middle" fill="#990000" font-family="Arial, sans-serif" font-size="10" font-weight="bold">AI</text>
+  
+  <!-- Date -->
+  <text x="100" y="170" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="10">2025</text>
+  
+  <!-- Verification Badge -->
+  <circle cx="160" cy="50" r="12" fill="#00d084"/>
+  <text x="160" y="55" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="12">✓</text>
+</svg>
